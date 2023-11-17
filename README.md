@@ -41,6 +41,6 @@ Users should be able to:
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Website - [Saša Vatić](https://sasavatic.netlify.app/)
+- Frontend Mentor - [@SasaVatic](https://www.frontendmentor.io/profile/SasaVatic)
+- Twitter - [@SaaV59345676](https://twitter.com/SaaV59345676)
