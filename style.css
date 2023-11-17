@@ -57,6 +57,7 @@ body {
   border-radius: 15px;
   max-width: 21.875rem;
   margin-inline: auto;
+  box-shadow: 0 0 30px 20px rgba(0, 0, 0, 0.3);
 }
 
 @media (min-width: 1024px) {
@@ -203,4 +204,26 @@ body {
   max-width: 2rem;
   border: 1px solid var(--clr-white);
   border-radius: 50%;
+}
+
+.attribution {
+  position: fixed;
+  bottom: 0;
+  left: 50%;
+  width: 100%;
+  transform: translateX(-50%);
+  font-size: 0.875rem;
+  text-align: center;
+  color: var(--clr-soft-blue);
+  padding: 0.625rem 1.4375rem;
+}
+
+.attribution > a {
+  color: var(--clr-white);
+  text-decoration: underline;
+  transition: color 0.3s ease;
+}
+
+.attribution > a:hover {
+  color: var(--clr-cyan);
 }
