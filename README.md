@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/flexbox-oXAU6MoQsj](https://www.frontendmentor.io/solutions/flexbox-oXAU6MoQsj)
+- Live Site URL: [https://sasavatic.github.io/nft-preview-card-component/](https://sasavatic.github.io/nft-preview-card-component/)
 
 ## My process
 
